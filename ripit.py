@@ -1,3 +1,8 @@
+################################################
+#               RIPIT BY DEEXNO                #
+# I (DEEXNO) AM NOT RESPONSIBLE FOR ANY DAMAGE #
+################################################
+
 from cryptography.fernet import Fernet
 import os
 import smtplib
